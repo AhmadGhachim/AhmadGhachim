@@ -4,7 +4,9 @@ Hey there! My name is Ahmad, and I am an aspiring product designer. Recently, I 
 
 ## 🌐 Socials:
 **LinkedIn** www.linkedin.com/in/ahmadghachim
+
 **Read.cv** https://read.cv/ahmadghachim
+
 **Portfolio** https://www.ahmadghachim.com/
 
 # 💻 Tech Stack:
