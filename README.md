@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! My name is Ahmad, and I am an aspiring product designer. Recently, I completed my degree in Interactive Systems Design, specializing in human-computer interaction.<br><br>
+Hey there! My name is Ahmad. Recently, I completed my degree in Interactive Systems Design, specializing in human-computer interaction.<br><br>
 
 
 ## 🌐 Socials:
