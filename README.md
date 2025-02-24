@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! My name is Ahmad. Recently, I completed my degree in Interactive Systems Design, specializing in human-computer interaction.<br><br>
+Hello! I'm Ahmad, a passionate Product Designer and Software Developer. I hold a Bachelor's in applied Computer Science - Interactive Systems Design from the University of Saskatchewan, where I graduated with distinction in June 2024. During my time at USask, I co-founded the UX Collective chapter, fostering a vibrant community of 250 members. I also served as the External Relations Director for the Google Developer Student Clubs, collaborating closely with Google developers to introduce the Google Cloud platforms to students on campus. Professionally, I've contributed as a Product Designer at Access, developing innovative software solutions that connect startups with essential resources. Recently, I completed a Software Engineering Diploma at BrainStation, enhancing my expertise in full-stack development and agile methodologies. I'm dedicated to continuous growth and eager to collaborate on projects that bridge design and development to create impactful digital experiences. Let's connect and build something extraordinary together!.<br><br>
 
 
 ## 🌐 Socials:
